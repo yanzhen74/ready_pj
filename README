@@ -3,4 +3,12 @@ Then create a same-name repo in github.
 
 Let's see if this works:
 
-$git remote add orgin git@github.com:yanzhen74/ready_pj.git
+$git remote add origin git@github.com:yanzhen74/ready_pj.git
+
+oooooooops, my answer is no...
+
+but this works:
+$git remote add origin https://github.com/yanzhen74/read_pj.git
+
+and use this command to upstream push:
+$git push -u origin master
