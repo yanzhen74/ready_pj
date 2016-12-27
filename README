@@ -1,0 +1,6 @@
+The file README and the project are created local.
+Then create a same-name repo in github.
+
+Let's see if this works:
+
+$git remote add orgin git@github.com:yanzhen74/ready_pj.git
